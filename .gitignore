@@ -1,0 +1,7 @@
+# Xcode
+DerivedData/
+xcuserdata/
+xcworkspace/
+
+# Swift Packages
+.build/
